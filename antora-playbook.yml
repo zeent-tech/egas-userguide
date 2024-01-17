@@ -7,7 +7,6 @@ content:
   sources: 
   - url: .
     branches: HEAD
-    edit_url: false
   - url: .
     branches: HEAD
     start_path: zeent-pos
