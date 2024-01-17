@@ -1,0 +1,10 @@
+name: zeent-pos
+title: Zeent POS
+version: 0.0.0
+start_page: overview.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- nav.adoc
