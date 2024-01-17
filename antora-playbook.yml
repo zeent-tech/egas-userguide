@@ -1,12 +1,15 @@
 site:
-  title: Zeent Portal User Guide
+  title: Zeent User Guide
+  url: https://docs.zeent.tech
   start_page: zeent-portal::index.adoc 
 content:
   sources: 
   - url: .
     branches: HEAD
-  - url: ./zeent-pos
+    edit_url: false
+  - url: .
     branches: HEAD
+    start_path: zeent-pos
 ui: 
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
