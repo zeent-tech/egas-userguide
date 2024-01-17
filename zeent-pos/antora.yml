@@ -1,6 +1,6 @@
 name: zeent-pos
 title: Zeent POS
-version: 0.0.0
+version: ~
 start_page: overview.adoc
 asciidoc:
   attributes:

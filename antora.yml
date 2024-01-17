@@ -1,6 +1,6 @@
 name: zeent-portal
 title: Zeent Portal
-version: 0.0.0
+version: ~
 start_page: inline-text-formatting.adoc
 asciidoc:
   attributes:
