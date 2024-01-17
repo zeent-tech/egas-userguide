@@ -9,7 +9,7 @@ content:
     branches: HEAD
   - url: .
     branches: HEAD
-    start_path: zeent-pos
+    start_path: zeent-mobile-pos
 ui: 
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
