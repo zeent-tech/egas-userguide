@@ -1,7 +1,8 @@
 site:
   title: Zeent User Guide
   url: https://docs.zeent.tech
-  start_page: zeent-portal::index.adoc 
+  start_page: zeent-portal::index.adoc
+  robots: allow
 content:
   sources: 
   - url: .
@@ -14,3 +15,8 @@ ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+  supplemental_files: ./supplemental-ui
+runtime:
+  cache_dir: ./.cache/antora
+  log:
+    failure_level: warn
