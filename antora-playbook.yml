@@ -1,0 +1,11 @@
+site:
+  title: Zeent Portal User Guide
+  start_page: zeent-portal::index.adoc 
+content:
+  sources: 
+  - url: .
+    branches: HEAD
+ui: 
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
