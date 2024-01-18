@@ -25,12 +25,3 @@
 *** xref:modules/user/overview.adoc[]
 
 * xref:qa.adoc[]
-
-// * xref:inline-text-formatting.adoc[]
-// * xref:special-characters.adoc[]
-// * xref:admonition.adoc[]
-// * xref:sidebar.adoc[]
-// * xref:ui-macros.adoc[]
-// * Lists
-// ** xref:lists/ordered-list.adoc[]
-// ** xref:lists/unordered-list.adoc[]
