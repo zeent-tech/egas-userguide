@@ -22,4 +22,6 @@ runtime:
     failure_level: warn
 antora:
   extensions:
-    - '@antora/lunr-extension'
+    - require: '@antora/lunr-extension'
+      index_latest_only: true
+      languages: [en, ru]
