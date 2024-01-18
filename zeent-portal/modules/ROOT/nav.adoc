@@ -1,0 +1,36 @@
+* xref:overview.adoc[]
+* xref:install.adoc[]
+* xref:updates.adoc[]
+
+* Модулиуд
+** Борлуулалт
+*** xref:modules/order/overview.adoc[]
+*** xref:modules/order/create.adoc[]
+** Бараа
+*** xref:modules/product/overview.adoc[]
+*** xref:modules/product/create.adoc[]
+** Баллон
+*** xref:modules/tank/overview.adoc[]
+** Харилцагч
+*** xref:modules/product/overview.adoc[]
+** Салбар
+*** xref:modules/department/overview.adoc[]
+** Тээврийн хэрэгсэл
+*** xref:modules/truck/overview.adoc[]
+** Тээвэрлэлт
+*** xref:modules/transport/overview.adoc[]
+** Гараа
+*** xref:modules/truck_cycle/overview.adoc[]
+** Хэрэглэгч
+*** xref:modules/user/overview.adoc[]
+
+* xref:qa.adoc[]
+
+// * xref:inline-text-formatting.adoc[]
+// * xref:special-characters.adoc[]
+// * xref:admonition.adoc[]
+// * xref:sidebar.adoc[]
+// * xref:ui-macros.adoc[]
+// * Lists
+// ** xref:lists/ordered-list.adoc[]
+// ** xref:lists/unordered-list.adoc[]

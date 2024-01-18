@@ -1,0 +1,11 @@
+= Шинэчлэл
+
+== 2024.01.07
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+
+== 2023.13.25
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+
+=== Шинэчлэгдсэн
+* Бараа
+* Борлуулалт

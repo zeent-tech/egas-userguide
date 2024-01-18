@@ -1,10 +1,10 @@
 name: zeent-portal
 title: Zeent Portal
 version: ~
-start_page: inline-text-formatting.adoc
+start_page: overview.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
 nav:
-- modules/ROOT/nav.adoc
+  - modules/ROOT/nav.adoc

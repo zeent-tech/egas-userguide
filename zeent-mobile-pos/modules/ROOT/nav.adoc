@@ -1,1 +1,14 @@
 * xref:overview.adoc[]
+* xref:install.adoc[]
+* xref:updates.adoc[]
+
+* Модулиуд
+** Борлуулалт
+*** xref:modules/order/overview.adoc[]
+*** xref:modules/order/create.adoc[]
+** Салбар
+*** xref:modules/department/overview.adoc[]
+** Тээврийн хэрэгсэл
+*** xref:modules/truck/overview.adoc[]
+
+* xref:qa.adoc[]

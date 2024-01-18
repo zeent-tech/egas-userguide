@@ -1,5 +1,5 @@
 site:
-  title: Zeent User Guide
+  title: Zeent хэрэглэгчийн гарын авлага
   url: https://userguide.zeent.tech
   start_page: zeent-portal::index.adoc
   robots: allow
@@ -7,6 +7,7 @@ content:
   sources: 
   - url: .
     branches: HEAD
+    start_path: zeent-portal
   - url: .
     branches: HEAD
     start_path: zeent-mobile-pos
