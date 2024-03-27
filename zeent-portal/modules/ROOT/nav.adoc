@@ -21,6 +21,9 @@
 *** xref:modules/transport/overview.adoc[]
 ** Гараа
 *** xref:modules/truck_cycle/overview.adoc[]
+*** xref:modules/truck_cycle/create.adoc[]
+*** xref:modules/truck_cycle/contract.adoc[]
+*** xref:modules/truck_cycle/report.adoc[]
 ** Хэрэглэгч
 *** xref:modules/user/overview.adoc[]
 
