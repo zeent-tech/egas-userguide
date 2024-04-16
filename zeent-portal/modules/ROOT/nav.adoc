@@ -15,6 +15,7 @@
 *** xref:modules/product/overview.adoc[]
 ** Салбар
 *** xref:modules/department/overview.adoc[]
+*** xref:modules/department/create_shift.adoc[]
 ** Тээврийн хэрэгсэл
 *** xref:modules/truck/overview.adoc[]
 ** Тээвэрлэлт
